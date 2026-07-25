@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "title": "Repro - Muon Spectral Family (arXiv 2602.04669)",
+  "emoji": "🎯",
+  "space_id": "DineshAI/xUQ0Gw11NL",
+  "paper": null,
+  "tags": [
+    "icml2026-repro",
+    "paper-xUQ0Gw11NL"
+  ],
+  "updated_at": "2026-07-25T17:40:00+00:00",
+  "root": {
+    "slug": "index",
+    "title": "Repro - Muon Spectral Family (arXiv 2602.04669)",
+    "file": "pages/index.md",
+    "children": [
+      {
+        "slug": "overview",
+        "title": "Overview",
+        "file": "pages/overview/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-1-p-family",
+        "title": "Claim 1 — Ψ_p family",
+        "file": "pages/claim-1-p-family/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-2-condition-number",
+        "title": "Claim 2 — Condition number",
+        "file": "pages/claim-2-condition-number/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-3-stabilization",
+        "title": "Claim 3 — Stabilization",
+        "file": "pages/claim-3-stabilization/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-4-rms-similarity",
+        "title": "Claim 4 — RMS similarity",
+        "file": "pages/claim-4-rms-similarity/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-5-gpt2",
+        "title": "Claim 5 — GPT-2 124M",
+        "file": "pages/claim-5-gpt2/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-6-newton-schulz",
+        "title": "Claim 6 — Newton-Schulz",
+        "file": "pages/claim-6-newton-schulz/page.md",
+        "children": []
+      },
+      {
+        "slug": "methods",
+        "title": "Methods",
+        "file": "pages/methods/page.md",
+        "children": []
+      },
+      {
+        "slug": "conclusion",
+        "title": "Conclusion",
+        "file": "pages/conclusion/page.md",
+        "children": []
+      },
+      {
+        "slug": "historical-toy-baseline",
+        "title": "Historical rejected baseline",
+        "file": "pages/historical-toy-baseline/page.md",
+        "children": []
+      }
+    ]
+  },
+  "agent_view_tokens": 1800,
+  "revision": "1784757415953248815"
+}
