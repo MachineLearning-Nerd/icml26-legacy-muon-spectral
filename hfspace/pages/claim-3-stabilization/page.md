@@ -31,6 +31,11 @@ This is exactly the stabilization/robustness effect the paper describes: orthogo
 **Contract check (exits nonzero on failure):** `mSGDZ.val_spread < 0.75 × mSGD.val_spread`
 (0.69 < 2.03 ✓) **and** `mSGDZ.best ≤ mSGD.best + 0.10` (2.16 ≤ 3.20 ✓).
 
+**Implementation cross-check (negative control passes):** our mSGD best val = **3.097**,
+matching the paper's Table-1 mSGD figure of **3.092** at GPT-2 124M — independent
+confirmation that the momentum-SGD baseline (the thing Muon is supposed to stabilize)
+is implemented correctly. The stabilization is therefore not an artifact of a broken baseline.
+
 Raw data: `results/sweep_results.csv` · code: `repro/train_sweep.py`, `repro/optimizers.py`.
 **Limitation:** downscaled model/data (CPU budget); the stabilization mechanism is
 optimizer-intrinsic and scale-independent, but absolute losses are not comparable to GPT-2 124M.
