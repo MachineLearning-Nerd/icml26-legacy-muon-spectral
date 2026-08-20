@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Legacy/source workspace for Delving into Muon and Beyond: Deep Analysis and Extensions"
+type: software
+authors:
+  - family-names: Qi
+    given-names: Xianbiao
+  - family-names: Chen
+    given-names: Marco
+  - family-names: Ye
+    given-names: Jiaquan
+  - family-names: He
+    given-names: Yelin
+  - family-names: Xiao
+    given-names: Rong
+repository-code: "https://github.com/MachineLearning-Nerd/icml26-legacy-muon-spectral"
+url: "https://github.com/MachineLearning-Nerd/icml26-legacy-muon-spectral"
+abstract: "Legacy/source workspace preserving the implementation, evidence artifacts, and branch history for the associated ICML 2026 reproduction record."
+keywords:
+  - reproduction
+  - ICML 2026
+references:
+  - type: article
+    title: "Delving into Muon and Beyond: Deep Analysis and Extensions"
+    authors:
+      - family-names: Qi
+        given-names: Xianbiao
+      - family-names: Chen
+        given-names: Marco
+      - family-names: Ye
+        given-names: Jiaquan
+      - family-names: He
+        given-names: Yelin
+      - family-names: Xiao
+        given-names: Rong
+    identifiers:
+      - type: arxiv
+        value: "2602.04669"
+    url: "https://arxiv.org/abs/2602.04669"
+
