@@ -25,6 +25,10 @@ publication claims. Their purposes and tips are preserved in
 details are in [`CITATION.cff`](CITATION.cff) and
 [`AUTHOR_THANK_YOU.md`](AUTHOR_THANK_YOU.md).
 
+## Thank you
+
+Thank you to the paper authors for making this research available for study. The full acknowledgment is in [`AUTHOR_THANK_YOU.md`](AUTHOR_THANK_YOU.md).
+
 [![Open in molab](https://marimo.io/molab-shield.svg)](https://molab.marimo.io/github/MachineLearning-Nerd/icml26-repro-xUQ0Gw11NL-delving-into-muon-and-beyond-deep-analysis-and-extensions/blob/main/repro/muon_tour.py)
 ![score](https://img.shields.io/badge/score-10%2F12-green)
 
